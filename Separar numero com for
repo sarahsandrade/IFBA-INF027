@@ -22,4 +22,4 @@ int main()
     while(iCont>-1){
     printf("%d ",array[iCont]);
     iCont--;}
-}
+    }
