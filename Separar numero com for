@@ -9,7 +9,7 @@ int main()
     scanf("%d",&num);
     
     for(iCont=0;num>0;iCont++){
-        if(num<9){
+        if(num<10){
          array[iCont]=num;
             break;
         }
