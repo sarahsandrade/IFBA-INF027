@@ -1,0 +1,14 @@
+ #include <stdio.h>
+
+int main()
+{
+     int num,res;
+    printf("Digite um numero:");
+    scanf("%d",&num);
+    res=num%2;
+    if(res==0)
+    printf("par");
+    else
+    printf("impar");
+    return 0;
+}
